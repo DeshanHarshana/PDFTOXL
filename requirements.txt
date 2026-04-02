@@ -1,0 +1,11 @@
+# PDF text & table extraction
+pdfplumber>=0.11.0
+
+# Excel read/write (.xlsx)
+openpyxl>=3.1.0
+
+# Data frames — easy assembly and export to Excel
+pandas>=2.0.0
+
+# Optional: faster PDF parsing if needed later (uncomment if you use it)
+# pymupdf>=1.24.0
